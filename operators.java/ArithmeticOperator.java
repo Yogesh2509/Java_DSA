@@ -1,4 +1,4 @@
-public class ArithmeticOperator {
+public class arithmeticOperator {
     public static void main(String[] args) {
         int A = 10;
         int B = 5;
