@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "operators.java",
         "Variables & DataTypes",
-        "operators.java"
+        "conditionalStatements"
     ]
 }
