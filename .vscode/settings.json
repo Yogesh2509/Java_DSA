@@ -3,6 +3,7 @@
         "operators.java",
         "conditionalStatements",
         "Variables & DataTypes",
-        "Loops"
+        "Loops",
+        "Pattern"
     ]
 }
